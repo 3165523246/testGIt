@@ -25,3 +25,4 @@ def ReadFile(path):
     return alldata
 path1=r'.\1月'
 ReadFile(path1)
+print('aaa')
